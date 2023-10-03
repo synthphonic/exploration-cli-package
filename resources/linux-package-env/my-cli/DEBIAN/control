@@ -1,0 +1,7 @@
+Package: my-cli
+Version: 0.12.4-alpha
+Section: blacksmith tools
+Priority: optional
+Architecture: amd64
+Maintainer: FiftyOneLab  <admin@fiftyonelab.com>
+Description: CLI app to display some simpel information
