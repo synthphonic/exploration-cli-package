@@ -1,0 +1,13 @@
+Package: my-cli
+Version: 0.12.4-alpha
+Architecture: amd64
+Maintainer: FiftyOneLab  <admin@fiftyonelab.com>
+Filename: my-cli/my-cli.deb
+Size: 28820206
+MD5sum: cc686566b8becbd8335d555c85f7ec27
+SHA1: 42cafd2b1d1a782aa8e35d2babd0e40b753cbea2
+SHA256: 0a019a5911aecc06129e736a209e8943745d666384f8edb47cdbe0c79622d632
+Section: blacksmith tools
+Priority: optional
+Description: CLI app to display some simpel information
+
